@@ -4,14 +4,10 @@
 
 ## Estudiante: Kevin Morocho
 
-## Practica 1.1 Metodo burbuja
-### Fecha 20/04/2026
+## Practica Recursividad
+### Fecha 11/05/2026
+### Grupo: 3
 ### Descripción:
 
-Cree la clase 'Metodo burbuja' que implementa metodo de ordenamiento acendente,decendente y un metodo para imprimir. Constructor que instancia una variable global
-
-## Practica 1.2 Metodo burbuja avanzado
-### Fecha 21/04/2026
-### Descripción:
-
-Creamos metodos de ordenamirnto para distintos tipos de objetos.
+El tema de hoy aprendimos a usar la recursividad el cual es un método o función que se llama a sí mismo para resolver un problema dividiéndolo en subproblemas más pequeños.
+![alt text](image.png)
